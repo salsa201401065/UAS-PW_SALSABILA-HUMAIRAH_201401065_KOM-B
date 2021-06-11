@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+body{
+	font-family: verdana,helvetica, san-serif;
+
+}
+.container{
+	max-width: 800px;
+	max-height: 1000px;
+	margin: 100px auto;
+	text-align: center;
+}
+.tittle{
+	margin-bottom: 70px;
+	font-size: 50px;
+	text-shadow: 1px 1px 1px #00000;
+}
+.komputer{
+	font-size: 40px;
+	margin-bottom: 70px;
+}
+.input-user{
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	width: 250px;
+	border-radius: 5px;
+	border: 1px solid #00000;
+	box-shadow: 0 0 3px #00000;
+	margin-bottom: 20px;
+}
+.kirim {
+	background-color: lightblue;
+	border: 1px solid #00000;
+	padding: 5px 20px 5px 20px;
+	border-radius: 5px;
+	margin-bottom: 40px;
+}
+.result{
+	font-size: 25px;
+}
